@@ -9,7 +9,7 @@ CRUD application with NodeJS & cassandra
   We strongly encourage/appreciate your help. Please go ahead and fork it ;-)
   
 ## Note
-  This application doens't intend to provide any best approach as of now.
+  This application doesn't intend to provide any best approach as of now.
   
 [express]: http://expressjs.com/
 [datastax]: http://www.datastax.com/
